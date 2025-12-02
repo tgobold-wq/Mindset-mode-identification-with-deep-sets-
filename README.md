@@ -11,7 +11,11 @@ A convolutional neural network architecture based on the two frameworks PointNet
 - In the second training step, we introduce three augmentation functions: drop (D) to randomly drop frequencies, shake (S) to introduce gaussian noise to the frequencies and fake (F) to inject spurious frequencies that don't correspond to pulsations. 
 
 # Main sources
-PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (https://arxiv.org/abs/1612.00593)
-Deep Sets (https://arxiv.org/abs/1703.06114)
-Pulsational instability of pre-main-sequence models from accreting protostars (https://www.aanda.org/articles/aa/abs/2022/08/aa43242-22/aa43242-22.html)
+PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (2017) (https://arxiv.org/abs/1612.00593)
+Qi, C. R., Su, H., Mo, K., & Guibas, L. J.
 
+Deep Sets (2017) (https://arxiv.org/abs/1703.06114)
+Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salakhutdinov, R., & Smola, A.
+
+PMS δ Scuti pulsation models without rotational splitting (2022) (https://www.aanda.org/articles/aa/abs/2022/08/aa43242-22/aa43242-22.html)
+Steindl, T., Zwintz, K., & Müllner, M.
