@@ -15,6 +15,3 @@ PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (ht
 Deep Sets (https://arxiv.org/abs/1703.06114)
 Pulsational instability of pre-main-sequence models from accreting protostars (https://www.aanda.org/articles/aa/abs/2022/08/aa43242-22/aa43242-22.html)
 
-# Layout of this repository
-/data                 - preprocessing scripts for the stellar grid of Steindl et al.
-/models               - saved weights and checkpoints
